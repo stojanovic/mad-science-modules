@@ -52,7 +52,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## hardware
-- [cyclon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
+- [cylon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
 
 ## virtual machines
 - [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
